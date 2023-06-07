@@ -1,0 +1,18 @@
+.hero-title {
+    color: var(--primary-color);
+    fontWeight: bold;
+    fontSize: 26px;
+}
+
+.hero-cta {
+    margin-top: 45px;
+    text-decoration: none;
+    width: 200px;
+    text-align: center;
+    background: var(--primary-color);
+    padding: 14px;
+    fontSize: 22px;
+    text-transform: none;
+    color: white;
+    border-radius: 4px;
+}
