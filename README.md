@@ -2,7 +2,7 @@
 
 ![React Fitness Application](src/assets/images/landing.png)
 
-## Let's collaborate --> https://linkedin.com/in/tullio-forneris
+## [Let's collaborate!](https://linkedin.com/in/tullio-forneris)
 
 # Getting Started with Create React App
 
