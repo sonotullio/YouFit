@@ -1,8 +1,12 @@
 # YouFit! React Fitness Application
 
+[Click Here](https://youfit.tullio-forneris.it) and try it!
+
 ![React Fitness Application](src/assets/images/landing.png)
 
-## [Let's collaborate!](https://linkedin.com/in/tullio-forneris)
+### [Keep Updated](https://linkedin.com/in/tullio-forneris) --> Follow me on LinkedIn
+### [Let's collaborate](https://github.com/sonotullio) --> Follow me on GitHub
+### [Other Projects](https://tullio-forneris.it) --> Take a look at my portfolio, you will find all my projects, my ideas, my contacts!
 
 # Getting Started with Create React App
 
